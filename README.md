@@ -15,6 +15,12 @@ You may assume that each input would have exactly one solution.
 
 Solution 1:
 
+thinking:
+	
+	遍历两次数据，两两相加，判断值是否为target
+	
+code:
+
 	public class Solution {
     	public int[] twoSum(int[] nums, int target) {
         	int[] result = new int[2];

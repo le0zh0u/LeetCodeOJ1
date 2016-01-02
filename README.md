@@ -1,5 +1,5 @@
 # LeetCodeOJ1
-LeetCodeOJ Question 1
+LeetCodeOJ Algorithms Question 1
 
 Question 1:
 
